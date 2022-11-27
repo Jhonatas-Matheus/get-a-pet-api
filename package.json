@@ -1,0 +1,7 @@
+{
+  "name": "api-get-a-pet",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jhonatas <jhonatasoliveira021@gmail.com>",
+  "license": "MIT"
+}

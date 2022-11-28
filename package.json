@@ -5,7 +5,7 @@
   "author": "Jhonatas <jhonatasoliveira021@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "test": "jest"
+    "test": "jest --forceExit"
   },
   "devDependencies": {
     "eslint": "^7.32.0",

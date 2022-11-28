@@ -5,8 +5,11 @@
   "author": "Jhonatas <jhonatasoliveira021@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-prettier": "^4.2.1",
     "git-commit-msg-linter": "^4.4.0",
     "nodemon": "^2.0.20",
+    "prettier": "^2.8.0",
     "sucrase": "^3.29.0"
   },
   "dependencies": {

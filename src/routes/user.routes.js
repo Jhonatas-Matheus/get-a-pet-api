@@ -1,8 +1,8 @@
 const Router = require("express");
-const TestGetController = require("../controllers/TesteGetController");
+const RegisterUserController = require("../controllers/UserRegisterController");
 
 const routes = Router();
 
-routes.get("/", (req, res) => TestGetController.handle(req, res));
+routes.post("/register", (req, res) => RegisterUserController.handle(req, res));
 
 module.exports = routes;

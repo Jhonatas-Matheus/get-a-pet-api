@@ -5,6 +5,7 @@
   "author": "Jhonatas <jhonatasoliveira021@gmail.com>",
   "license": "MIT",
   "scripts": {
+    "dev" "nodemon src/index.js ",
     "test": "jest --forceExit"
   },
   "devDependencies": {
